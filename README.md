@@ -1,6 +1,6 @@
 # CT-electrode-loc
-This is the code accompanying the following publication:
-Schaich Borg J*, Vu M*, Badea C, Badea A, Johnson GA, Dzirasa K. Localization of metal electrodes in the intact rat brain using registration of 3-D micro-computed tomography images to a magnetic resonance histology atlas. eNeuro 2015; 2(4). *denotes equally contributing authors
+This is the code accompanying the following publication:  
+Schaich Borg J*, Vu M*, Badea C, Badea A, Johnson GA, Dzirasa K. Localization of metal electrodes in the intact rat brain using registration of 3-D micro-computed tomography images to a magnetic resonance histology atlas. eNeuro 2015; 2(4). *denotes equally contributing authors  
 https://www.eneuro.org/content/2/4/ENEURO.0017-15.2015
 
 ##Use:
