@@ -15,7 +15,7 @@ regSimilarityCT2MR.m
 
 
 
-##A few notes:
+## A few notes:
 
 Please note that for our registration, we resampled and cropped the MR atlas and CT scan, such that the resolution and size were matching. For scans not matching in resolution or size, the code may need to be adapted appropriately.
 
