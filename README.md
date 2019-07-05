@@ -3,7 +3,7 @@ This is the code accompanying the following publication:
 Schaich Borg J*, Vu M*, Badea C, Badea A, Johnson GA, Dzirasa K. Localization of metal electrodes in the intact rat brain using registration of 3-D micro-computed tomography images to a magnetic resonance histology atlas. eNeuro 2015; 2(4). *denotes equally contributing authors  
 https://www.eneuro.org/content/2/4/ENEURO.0017-15.2015
 
-##Use:
+## Use:
 
 regCT2MR_full.m is the script that runs our full registration algorithm. This script calls upon the other scripts:
 applyReg2CT.m
@@ -24,7 +24,7 @@ Furthermore, in our scans, the electrodes and implant were the brightest voxels,
 
 
 
-##Dependencies:
+## Dependencies:
 
 These scripts rely on :
 1. The Tools for NIFTI and ANALYZE images, developed by Jimmy Shen, 23 Oct. 2005, updated 22 Jan 2014. (http://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image)
@@ -32,7 +32,7 @@ These scripts rely on :
 
 
 
-##Disclaimer:
+## Disclaimer:
 
 The code is not guaranteed to fit any clinical purpose but it is open for research. 
 
